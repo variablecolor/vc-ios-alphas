@@ -34,6 +34,5 @@ let package = Package(
         "https://d1uxfrxqms1qk3.cloudfront.net/uploads/E511C522-4B52-49AB-8443-782EC4E1E0CA/output/pm/VariableColor.xcframework.zip",
       checksum: "48c62aee2b5d7112de2ec8c3ce8db3b8a5e40edb591f90199ef27a71c0984ba1"
     ),
-
   ]
 )
